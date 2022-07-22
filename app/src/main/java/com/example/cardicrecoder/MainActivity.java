@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
         toolbar=findViewById(R.id.toolbar);
         TextView title=toolbar.findViewById(R.id.toolbartitle);
         ImageButton back=toolbar.findViewById(R.id.back);
-        title.setText("Cadic Records");
+        title.setText("Welcome To HeartBeat");
         back.setVisibility(View.GONE);
     }
 
